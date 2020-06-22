@@ -1,0 +1,6 @@
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\bin\Debug\MinApp.exe.config
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\bin\Debug\MinApp.exe
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\bin\Debug\MinApp.pdb
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\obj\Debug\MinApp.csprojAssemblyReference.cache
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\obj\Debug\MinApp.exe
+E:\учеба\4 курс\Автоматизация\5лаб\MinApp\MinApp\obj\Debug\MinApp.pdb
